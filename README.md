@@ -27,7 +27,7 @@ To run the Student Search App on your local machine, follow these steps:
 
 3. Build and run the app on an emulator or a connected device.
 
-#Dependencies
+## Dependencies
 The following dependencies are used in the project:
 
 - androidx.appcompat:appcompat: AndroidX AppCompat library
@@ -36,5 +36,5 @@ The following dependencies are used in the project:
 - androidx.appcompat:appcompat: AndroidX SwitchCompat library
 These dependencies are managed using the Gradle build system.
 
-#License
+## License
 This project is licensed under the MIT License.
