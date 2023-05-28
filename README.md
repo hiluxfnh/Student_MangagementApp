@@ -37,4 +37,4 @@ The following dependencies are used in the project:
 These dependencies are managed using the Gradle build system.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License, feel free to use it.
